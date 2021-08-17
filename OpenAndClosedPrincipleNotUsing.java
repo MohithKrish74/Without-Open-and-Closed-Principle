@@ -19,6 +19,7 @@ class Payment
     }
 }
 
+
 public class OpenAndClosedPrincipleNotUsing
 {
     public static void main(String[] args)
